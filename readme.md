@@ -32,5 +32,7 @@ Things to notice
 
 At first, the lattice is set with only one defector in the middle (red) and all cooperators (blue). A beautiful dynamic kaleidoscopic pattern starts forming and expanding. The symmetry is astonishing. 
 
+Video demonstration:
+https://vimeo.com/416408060
 
 
